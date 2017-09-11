@@ -6,7 +6,7 @@ import org.junit.Test;
 /**
  * The test class WeatherReportTest.
  *
- * @author  (Wendy)
+ * @author  (Chris)
  * @version (a version number or a date)
  */
 public class WeatherReportTest extends junit.framework.TestCase
